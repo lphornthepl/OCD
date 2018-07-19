@@ -1,0 +1,25 @@
+{
+  "name": "ocd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lphornthepl/OCD.git"
+  },
+  "keywords": [
+    "OCD"
+  ],
+  "author": "OCD team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lphornthepl/OCD/issues"
+  },
+  "homepage": "https://github.com/lphornthepl/OCD#readme",
+  "dependencies": {
+    "firebase-admin": "^5.13.0"
+  }
+}
